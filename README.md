@@ -1,5 +1,5 @@
 # Rainbow-Crack
-----
+
 # what is RainbowCrack ?
 
 ***RainbowCrack*** is a computer program which generates [rainbow tables](https://en.wikipedia.org/wiki/Rainbow_table) to be used in [password cracking](https://en.wikipedia.org/wiki/Password_cracking). RainbowCrack differs from "conventional" [brute force](https://en.wikipedia.org/wiki/Brute-force_attack) crackers in that it uses large pre-computed tables called rainbow tables to reduce the length of time needed to crack a password drastically.RainbowCrack was developed by Zhu Shuanglei, and implements an improved [time–memory tradeoff cryptanalysis](https://en.wikipedia.org/wiki/Time%E2%80%93memory_tradeoff) attack which originated in Philippe Oechslin's [Ophcrack](https://en.wikipedia.org/wiki/Ophcrack).
